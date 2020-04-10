@@ -1,5 +1,5 @@
 # Fizz Buzz
-___
+
 **Fun teaching tool about division for kids. Great test for amateur programmers.**
 
 ### The Task:
