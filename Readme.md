@@ -9,7 +9,7 @@ Any number divisible by three should be replaced by the word "fizz" instead.
 Any number divisible by five should be replaced by the word "buzz" instead. 
 Numbers divisible by 3 and 5 should be replaced by the word "fizz buzz".
 
-Sample output:
+### Sample output:
 > This is 1 out of 100  
 > This is 2 out of 100  
 > Fizz  
